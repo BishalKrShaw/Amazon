@@ -1,4 +1,6 @@
-import {cart} from '../data/cart.js';
+/* In {} brackets this is variable which we have imported from cart.js so that we can use that variable from cart.js to amazon.js */
+import {cart} from '../data/cart.js'; 
+import {products} from '../data/products.js';
 
 let productHTML = "";
 

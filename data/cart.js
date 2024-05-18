@@ -1,1 +1,1 @@
-export const cart = [];
+export const cart = []; /* export is used to export this variable to use it. This variable can be accessed where import is written like this => import {cart} from '../data/cart.js' -> basically it;s path */
